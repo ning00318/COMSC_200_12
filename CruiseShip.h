@@ -1,7 +1,7 @@
 #ifndef CRUISESHIP_H
 #define CRUISESHIP_H
-#include "Ship.h"
 #include <string>
+#include "Ship.h"
 
 class CruiseShip : public Ship
 {
