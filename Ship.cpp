@@ -32,5 +32,4 @@ void Ship::print() const
 {
     cout << "Name: " << getShipName() << endl;
     cout << "Year built: " << getBuiltYear() << endl;
-    cout << "--------------------------------" << endl;
 }

@@ -23,5 +23,4 @@ void CruiseShip::print() const
 {
     cout << "Name: " << getShipName() << endl;
     cout << "Maximum passengers: " << getMaxPassenger() << endl;
-    cout << "--------------------------------" << endl;
 }
